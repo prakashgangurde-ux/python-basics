@@ -19,6 +19,7 @@ This repository contains all the code examples covered in the article:
 |------|-------------|
 | `hello.py` | Your first Python program |
 | `cal.py` | Calculator mini project - arithmetic operations |
+| `function.py` | This program uses multiple functions to generate student report card |
 
 ## 🚀 How to Use
 
