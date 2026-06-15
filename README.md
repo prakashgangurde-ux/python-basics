@@ -24,7 +24,7 @@ This repository contains all the code examples covered in the article:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-basics.git
+   git clone https://github.com/prakashgangurde-ux/python-basics.git
    cd python-basics
    ```
 
